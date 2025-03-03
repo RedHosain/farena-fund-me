@@ -1,6 +1,11 @@
 [profile.default]
 src = "src"
 out = "out"
+script = "script"
 libs = ["lib"]
+remappings = ["@chainlink/=lib/chainlink-brownie-contracts/contracts/src/v0.8/shared/interfaces"]
+
+[script]
+broadcast_dir = "broadcast"
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

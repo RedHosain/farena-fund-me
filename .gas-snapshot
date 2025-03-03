@@ -1,0 +1,8 @@
+TestFM:test_adds_funder_to_array_of_funders() (gas: 129955)
+TestFM:test_fund_fails_without_enough_eth() (gas: 53565)
+TestFM:test_fund_updates_funded_data_structure() (gas: 129631)
+TestFM:test_onlyOwner_can_withdraw() (gas: 37205)
+TestFM:test_priceFeed_set_currectly() (gas: 51050)
+TestFM:test_withdraw_from_multiple_funders() (gas: 580538)
+TestFM:test_withdraw_from_single_funder() (gas: 110233)
+TestInteractions:test_user_can_fund_and_withdraw() (gas: 386875)
